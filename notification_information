@@ -1,1 +1,2 @@
-
+status = "F"
+info = "Vui lòng kiểm tra token telegram trước khi dùng bot, tránh việc bị lộ hit"
